@@ -1,5 +1,7 @@
 import './App.css'
 
+
+// boilerplate code for vite.js
 function App() {
 
   return (
