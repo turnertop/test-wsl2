@@ -9,6 +9,7 @@ function App() {
 		<h1> testing the git credential helper</h1>
 	  <h1> testing if the motherfucking git keeps asking my password still </h1>
 	  <h1> thank goodness that damn credential helper is working so i can just work without having to auth every time </h1>
+	  <h1>test</h1>
     </>
   )
 }
