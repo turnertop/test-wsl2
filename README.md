@@ -1,3 +1,6 @@
+![image](https://github.com/turnertop/test-wsl2/assets/89334184/f2ddbfed-edfd-479e-b4c6-076038cc3418)
+
+
 # I never knew you could run zsh powerlevel10k ubuntu off windows terminal that's crazy.
 # windows pretty much becomes iterm2 terminal with macos
 # crazy stuff
