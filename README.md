@@ -7,8 +7,8 @@
 
 # crazy stuff
 
-testing github token for verification purposes
-testing github's credential helper so i don't have to know it o wait what the fuck it stores that shit in plain text wtf thats not even secure that means every time u have to use github token no fuckin way
+1. testing github token for verification purposes
+2. testing github's credential helper so i don't have to know it o wait what the fuck it stores that shit in plain text wtf thats not even secure that means every time u have to use github token no fuckin way
 
 
 
